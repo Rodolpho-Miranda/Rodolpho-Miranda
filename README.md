@@ -1,6 +1,5 @@
 # 🧑🏾‍💻 Rodolpho Miranda
 
-<img src="![Rodol3](https://github.com/user-attachments/assets/bd582fcb-5f03-4831-bebf-4e0f40b77412)">
 
 **`Python student – ​​future Data Analyst and, if I have the time and energy, Full Stack developer`**
 
