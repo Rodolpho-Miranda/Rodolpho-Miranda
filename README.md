@@ -1,5 +1,7 @@
 # 🧑🏾‍💻 Rodolpho Miranda
 
+<img src="![Rodol3](https://github.com/user-attachments/assets/bd582fcb-5f03-4831-bebf-4e0f40b77412)">
+
 **`Python student – ​​future Data Analyst and, if I have the time and energy, Full Stack developer`**
 
 Don't make thyself a dream that will still come true. Go; no marked path. Thou art the one of all the ways.
@@ -7,6 +9,7 @@ Don't make thyself a dream that will still come true. Go; no marked path. Thou a
 ---
 
 ### Find me
+
 
 <div>
 <a href="https://www.linkedin.com/in/rodolpho-miranda-3a2435137/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/rodolphodemiranda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
