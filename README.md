@@ -7,9 +7,9 @@ Don't make thyself a dream that will still come true. Go; no marked path. Thou a
 ---
 
 
-div align="center"
-img src="https://desblogada.files.wordpress.co..." width="0px" /
-/div 
+<div align="center"
+img src="https://github.com/user-attachments/assets/d74c92f7-625b-4f6a-8ae3-b811c0906d21" width="700px" /
+</div> 
 
 
 ---
