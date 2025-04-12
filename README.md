@@ -2,60 +2,67 @@
   <img src="https://github.com/user-attachments/assets/d74c92f7-625b-4f6a-8ae3-b811c0906d21" width="1100px" />
 </div>
 
+<!-- Links -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodolphodemiranda/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolpho-miranda-3a2435137/)
 
 
-# 🧑🏾‍💻 Rodolpho Miranda
-
-
-**`Python student – ​​future Data Analyst and, if I have the time and energy, Full Stack developer`**
-
-
----
-
-Don't make thyself a dream that will still come true. Go; no marked path. Thou art the one of all the ways.
-
----
-
-### Find me
-
-
-<div>
-<a href="https://www.linkedin.com/in/rodolpho-miranda-3a2435137/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/rodolphodemiranda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+<!-- Presentation -->
+<p>
+  Hi 👋, I'm Rodolpho Miranda! A passionate Data Science student from Brazil.
+
+  - 🌱 I’m currently studying Python programming, Excel and Back-end programming on my own; this means I'm a neophyte in IT world.
+
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work as a Full-stack Developer and Data Analyst.
+</p>
+
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+
+  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+</details>
+
+
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodolpho-Miranda&show_icons=true&theme=gotham)
+
+<!-- Portfolio -->
+## Portfolio:
+## Sorry! I've told you hereabove that I'm a neophyte. There is no portfolio yet.
+
 ---
 
-### 🤖 Languages ​​and Technologies
 
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Statistics
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Rodolpho-Miranda&show_icons=true&theme=dracula&include_all_commits=true" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolpho-Miranda&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
+
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
+  
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  </div>
+  
+  <!-- Skills: Libraries -->
+  <div style="flex-basis: 48%;">
+    <h3>Libraries</h3>
+   Nothing yet...
+
+
+  </div>
