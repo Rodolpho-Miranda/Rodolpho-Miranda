@@ -4,6 +4,13 @@
 **`Python student – ​​future Data Analyst and, if I have the time and energy, Full Stack developer`**
 
 Don't make thyself a dream that will still come true. Go; no marked path. Thou art the one of all the ways.
+---
+
+
+div align="center"
+img src="https://desblogada.files.wordpress.co..." width="0px" /
+/div 
+
 
 ---
 
