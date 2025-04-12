@@ -1,12 +1,14 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
+
 # 🧑🏾‍💻 Rodolpho Miranda
 
 
 **`Python student – ​​future Data Analyst and, if I have the time and energy, Full Stack developer`**
 
-
-<div align="center">
-<img src="https://github.com/Rodolpho-Miranda/Rodolpho-Miranda/issues/3#issue-2990124046" width="700px" />
-</div>
 
 ---
 
