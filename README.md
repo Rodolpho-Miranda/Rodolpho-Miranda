@@ -41,7 +41,7 @@
 ---
 
 
-<p align="left">
+<p align="center">
   <img align="center" src="https://github.com/user-attachments/assets/5c7a2c25-ef55-44bf-b0c8-0c74b56eb2a7" alt="Imagem">
 </p>
 
