@@ -20,7 +20,7 @@
 Hello! My name is Rodolpho Miranda, and I’m currently transitioning into the tech field, with a focus on *Data Analysis* and *Back-end Development*. I have a diverse professional background, having worked in London as a Whole Foods Market cleaner, MSK labourer,*grocery stocker* and Deliveroo rider (cyclist). At present, I work as a stock assistant at Carrefour, but I am fully committed to building a new career in technology.\
 I’m also an amateur writer and illustrator — creative talents that I’ve developed as hobbies, but which I aim to incorporate into my professional path, particularly in areas such as design, technical writing, and user interfaces. I believe this blend of creativity and analytical thinking will be a valuable asset throughout my journey.\
 My intention is, *a priori*, to start studying Data Analysis, focusing on tools like Excel, Power BI, Tableau, SQL, and Python. My next step is to dive deeper into frameworks, APIs, servers, cybersecurity, version control, and advanced Python programming, laying a strong foundation for a Back-end developer role. Later on, I plan to complement this with studies in HTML, CSS, JavaScript, and UX/UI, also leveraging my artistic skills to confidently contribute on the Front-end when needed.\
-In short, my goal, *a posteriori*, is to become a Python Full-Stack Developer with solid expertise in Data Analysis and a creative approach to technical problem-solving.\ 
+In short, my goal, *a posteriori*, is to become a Python Full-Stack Developer with solid expertise in Data Analysis and a creative approach to technical problem-solving.\
 I’m just beginning this journey, but I’m highly motivated and excited for what’s ahead. 
 
 
