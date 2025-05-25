@@ -26,11 +26,21 @@
 </p>
 
 
-<!-- GithubStats -->
+
+## Achieviments
+<!--Santandeer Excel image-->
+<div>
+  <img align="left" width="40%" src="https://github.com/user-attachments/assets/bb9f7e41-d1df-4b37-b679-e02b770cbd67">
+</div>
+<!--Intro-->               
+<p align="left"> "Santander – Excel with Artificial Intelligence (Copilot)" was a bootcamp offered through the DIO e-learning platform. With a total duration of approximately 26 hours, spread across 16 video lessons and practical assessments, the course focused on introducing and enhancing the basic use of Microsoft Excel, including integration with artificial intelligence features via Copilot AI.
+A course centred on the strong foundational principles of Excel, including an introduction to the interface and basic functionalities, as well as progress in the initial processing and analysis of data in tables. I also developed skills in the creation and formatting of tables with conditional and validated data, the use of basic formulas, and the design of interactive dashboards, enabling clearer data visualisation and interpretation.
+Finally, the initial use of Copilot, a tool that supports automation and task optimisation within Excel, representing a significant advantage in data analysis with the aid of artificial intelligence.</p>
+<!--End Intro-->
 
 <!-- Portfolio -->
 ## Portfolio:
-## Sorry! I've told you hereabove that I'm a neophyte. There is no portfolio yet.
+## Sorry! I've told you hereabove that I'm a neophyte. There is no portfolio yet; but I'm working on it.
 
 ---
 
@@ -88,3 +98,7 @@
 
 
 
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
