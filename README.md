@@ -65,8 +65,6 @@ Finally, the initial use of Copilot, a tool that supports automation and task op
 ---
 
 
-
-
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
 ###
@@ -105,6 +103,26 @@ Finally, the initial use of Copilot, a tool that supports automation and task op
 </div>
 
 ###
+# Personal Works
+## On my drawings
+Drawing has always been one of my passions.
+I consider myself specialised in realistic pencil portraits. While drawing has mostly been a hobby, my dedication and keen eye for detail have made me – modesty aside – something of a specialist in the art of capturing human expressions.
+
+In addition to mastering graphite, I also have a certain level of expertise in digital drawing, particularly using *Photoshop* – blending the tradition of pencil and paper with the innovation of technology.
+
+I must admit, I’m a bit rusty.
+Life's everyday hustle kept me away from the sketchpad for quite some time... but the desire to return is stronger than ever – and now, with a new purpose: to apply my artistic talent within the tech world.
+
+I’m ready to dive headfirst into areas such as marketing, advertising, web design, branding, and UI/UX design, bringing my artistic perspective to creative and impactful projects.
+
+If you're looking for a unique artistic touch – stay tuned.
+
+<!-- Drawing -->
+<div align="center">
+<img src="https://github.com/user-attachments/assets/11c14268-4e64-4768-ae74-4d1af8b53302" />
+</div>
+
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
