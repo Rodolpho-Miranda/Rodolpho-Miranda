@@ -60,8 +60,7 @@ Finally, the initial use of Copilot, a tool that supports automation and task op
 <!--End Intro-->
 
 <!-- Portfolio -->
-## Portfolio:
-## Sorry! I've told you hereabove that I'm a neophyte. There is no portfolio yet; but I'm working on it.
+
 
 ---
 
