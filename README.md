@@ -10,19 +10,40 @@
 
 <!--título-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+  <ul align="left">
+    <summary><h1 style="display: inline-block">👋 Introduction</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Rodolpho Miranda! A passionate Data Science student from Brazil.
+  
+Hello! My name is Rodolpho Miranda, and I’m currently transitioning into the tech field, with a focus on *Data Analysis* and *Back-end Development*. I have a diverse professional background, having worked in London as a Whole Foods Market cleaner, MSK labourer,*grocery stocker* and Deliveroo rider (cyclist). At present, I work as a stock assistant at Carrefour, but I am fully committed to building a new career in technology.\
+I’m also an amateur writer and illustrator — creative talents that I’ve developed as hobbies, but which I aim to incorporate into my professional path, particularly in areas such as design, technical writing, and user interfaces. I believe this blend of creativity and analytical thinking will be a valuable asset throughout my journey.\
+My intention is, *a priori*, to start studying Data Analysis, focusing on tools like Excel, Power BI, Tableau, SQL, and Python. My next step is to dive deeper into frameworks, APIs, servers, cybersecurity, version control, and advanced Python programming, laying a strong foundation for a Back-end developer role. Later on, I plan to complement this with studies in HTML, CSS, JavaScript, and UX/UI, also leveraging my artistic skills to confidently contribute on the Front-end when needed.\
+In short, my goal, *a posteriori*, is to become a Python Full-Stack Developer with solid expertise in Data Analysis and a creative approach to technical problem-solving.\ 
+I’m just beginning this journey, but I’m highly motivated and excited for what’s ahead. 
 
-  - 🌱 I’m currently studying Python programming, Excel and Back-end programming on my own; this means I'm a neophyte in IT world.
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work as a Full-stack Developer and Data Analyst.
-  - 💬 I am 36 years old, currently living in Brazil. I have fluency in English. 
-  - ⚡ I enjoy reading, whether it's a good book, classics of world literature, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+## 🚧 Under Construction: My Tech Journey
+### 🎯 Goals in the Tech Field
+-	**Short term**: Studying tools such as Excel, Power BI, Tableau, SQL, and Python to begin working with Data Analysis.
+-	**Medium term**: Deepening my knowledge in Frameworks, APIs, servers, security, version control, and advanced Python, with a focus on Back-end development.
+-	**Long term**: Expanding into Front-end with HTML, CSS, JavaScript, and UX/UI, combining logic with creativity.
+My ultimate goal is to become a Python Full-Stack Developer with a strong foundation in data and creativity as a technical and visual differentiator.
+
+### 💻 Technologies and Tools I Intend to Study From Now Onwards
+-	**Data Analysis**: Excel | Power BI | Tableau | SQL | Python (Pandas, NumPy, Matplotlib)
+-	**Back-end**: Advanced Python | APIs | Security | Version Control (Git/GitHub) | Servers
+-	**Front-end (future)**: HTML | CSS | JavaScript | UX/UI
+-	**Other**: Technical Communication | Creative Writing | Digital Illustration
+
+### 📌 My Goals
+- ✔️ **Short term**: Work with Data Analysis
+- ✔️ **Medium term**: Become a Back-end Developer with Python
+- ✔️ **Long term**: Transition to Full Stack, combining creativity with technology
+
+---
+
 </p>
 
 
