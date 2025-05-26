@@ -125,7 +125,10 @@ If you're looking for a unique artistic touch – stay tuned.
 <img src="https://github.com/user-attachments/assets/11c14268-4e64-4768-ae74-4d1af8b53302" />
 </div>
 
+---
 
+###
+---
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -141,7 +144,7 @@ If you're looking for a unique artistic touch – stay tuned.
 </table>
 
 
-
+---
 
 ###
 
