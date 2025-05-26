@@ -25,6 +25,7 @@ I’m just beginning this journey, but I’m highly motivated and excited for wh
 
 
 ## 🚧 Under Construction: My Tech Journey
+
 ### 🎯 Goals in the Tech Field
 -	**Short term**: Studying tools such as Excel, Power BI, Tableau, SQL, and Python to begin working with Data Analysis.
 -	**Medium term**: Deepening my knowledge in Frameworks, APIs, servers, security, version control, and advanced Python, with a focus on Back-end development.
@@ -68,9 +69,11 @@ Finally, the initial use of Copilot, a tool that supports automation and task op
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
 ###
-<!-- gif -->
+<!-- Photo -->
 
-<h3 align="left">🛠 Programming Languages That I'm Learning</h3>
+<div>
+  <img align="right" width="25%" src="https://github.com/user-attachments/assets/4351903e-3f75-4e16-adc7-35e5de1525e4">
+</div>
 
 ###
 
