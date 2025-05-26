@@ -23,6 +23,7 @@ My intention is, *a priori*, to start studying Data Analysis, focusing on tools 
 In short, my goal, *a posteriori*, is to become a Python Full-Stack Developer with solid expertise in Data Analysis and a creative approach to technical problem-solving.\
 I’m just beginning this journey, but I’m highly motivated and excited for what’s ahead. 
 
+---
 
 ## 🚧 Under Construction: My Tech Journey
 
@@ -32,18 +33,21 @@ I’m just beginning this journey, but I’m highly motivated and excited for wh
 -	**Long term**: Expanding into Front-end with HTML, CSS, JavaScript, and UX/UI, combining logic with creativity.
 My ultimate goal is to become a Python Full-Stack Developer with a strong foundation in data and creativity as a technical and visual differentiator.
 
+
 ### 💻 Technologies and Tools I Intend to Study From Now Onwards
 -	**Data Analysis**: Excel | Power BI | Tableau | SQL | Python (Pandas, NumPy, Matplotlib)
 -	**Back-end**: Advanced Python | APIs | Security | Version Control (Git/GitHub) | Servers
 -	**Front-end (future)**: HTML | CSS | JavaScript | UX/UI
 -	**Other**: Technical Communication | Creative Writing | Digital Illustration
+  
+<div>
+  <img align="right" width="18%" src="https://github.com/user-attachments/assets/73d021c6-3625-4dc6-8f6e-013b61db5730">
+</div>
 
 ### 📌 My Goals
 - ✔️ **Short term**: Work with Data Analysis
 - ✔️ **Medium term**: Become a Back-end Developer with Python
 - ✔️ **Long term**: Transition to Full Stack, combining creativity with technology
-
----
 
 </p>
 
