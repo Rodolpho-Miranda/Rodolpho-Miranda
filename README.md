@@ -111,6 +111,46 @@ Finally, the initial use of Copilot, a tool that supports automation and task op
 
 ###
 # Personal Works
+
+## On my Writings
+*Little-Boy and the Alphômega Kingdom* is a coming-of-age fantasy tale that immerses the reader in a universe of adventure, imagination, and inner discovery.
+
+Inspired by the legendary echoes of the *Arthurian Cycle* and steeped in the rich tapestry of European folklore, this book goes even further, transforming itself into the vibrant hues and mysteries of *Amerindian mythology* – crafting a new world where the ancient and the modern intertwine like never before.
+
+📚 At first glance, it may appear to be a simple children’s story. Yet beneath its enchanted surface lies a profound, daring, and literarily innovative narrative, written in a modernist and experimental style, tailored for a young audience unafraid of being challenged. These readers will encounter techniques such as:
+
+- •	🌊 Stream of consciousness,
+- •	🧠 Interior monologue,
+- •	🗣️ Inventive neologisms,
+- •	🌍 Subtle social commentary interwoven throughout.
+  
+With a language that both provokes and inspires, *Little-Boy and the Alphômega Kingdom* is a journey that invites the reader to grow alongside its protagonist.
+
+<!-- mock-up do livro -->
+<div align="center">
+<img src="https://github.com/user-attachments/assets/3e25e0c2-e2da-4c09-bb5b-9a2c917e9bb7" />
+</div>
+
+###
+---
+
+<!-- Logo do livro -->
+<div>
+  <img align="right" width="50%" src="https://github.com/user-attachments/assets/88034890-2853-4b8b-8337-bdb68cff6986">
+</div>
+
+**Title**: Little-Boy and the Kingdom of Alphomega\
+**Author**: Rodolpho Miranda\
+**ISBN**: 978-65-00-34037-2\
+**Release Date**: 16 November 2021\
+**Publisher**: Self-published digitally – Kindle\
+**Chapters**: 16\
+**Pages**: 313\
+**Words**: 98,049\
+**Characters**: Over 150\
+**Genres**: Fiction, Fantasy
+
+
 ## On my drawings
 Drawing has always been one of my passions.
 I consider myself specialised in realistic pencil portraits. While drawing has mostly been a hobby, my dedication and keen eye for detail have made me – modesty aside – something of a specialist in the art of capturing human expressions.
