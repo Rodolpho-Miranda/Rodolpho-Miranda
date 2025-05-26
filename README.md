@@ -115,7 +115,7 @@ Finally, the initial use of Copilot, a tool that supports automation and task op
 # Personal Works
 
 ## On my Writings
-*Little-Boy and the Alphômega Kingdom* is a coming-of-age fantasy tale that immerses the reader in a universe of adventure, imagination, and inner discovery.
+*Little-Boy e o Reino de Alphômega* (in Portuguese) is a coming-of-age fantasy tale that immerses the reader in a universe of adventure, imagination, and inner discovery.
 
 Inspired by the legendary echoes of the *Arthurian Cycle* and steeped in the rich tapestry of European folklore, this book goes even further, transforming itself into the vibrant hues and mysteries of *Amerindian mythology* – crafting a new world where the ancient and the modern intertwine like never before.
 
@@ -141,7 +141,7 @@ With a language that both provokes and inspires, *Little-Boy and the Alphômega 
   <img align="right" width="50%" src="https://github.com/user-attachments/assets/88034890-2853-4b8b-8337-bdb68cff6986">
 </div>
 
-**Title**: Little-Boy and the Kingdom of Alphomega\
+**Title**: Little-Boy e o Reino de Alphômega\
 **Author**: Rodolpho Miranda\
 **ISBN**: 978-65-00-34037-2\
 **Release Date**: 16 November 2021\
