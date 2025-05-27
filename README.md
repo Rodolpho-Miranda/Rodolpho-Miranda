@@ -200,3 +200,8 @@ If you're looking for a unique artistic touch – stay tuned.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
+<!--Footer image of Much Obliged--> 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4b64a881-d928-4cb4-9a8a-a7d621ebe979" width="1100px" />
+</div>
