@@ -76,7 +76,7 @@ Finally, the initial use of Copilot, a tool that supports automation and task op
 <!-- Photo -->
 
 <div>
-  <img align="right" width="25%" src="https://github.com/user-attachments/assets/4351903e-3f75-4e16-adc7-35e5de1525e4">
+  <img align="right" width="30%" src="https://github.com/user-attachments/assets/4351903e-3f75-4e16-adc7-35e5de1525e4">
 </div>
 
 <h3 align="left">🛠 Programming Languages</h3>
