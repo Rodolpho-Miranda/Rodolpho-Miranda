@@ -9,6 +9,10 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PyDtV7uF)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Rodolpho-Miranda&color=yellow" alt="Profile views" /> </p>
 <!--título-->
+<div>
+  <img src="https://github.com/user-attachments/assets/fde1b0b6-d594-458f-99be-d6ba82df579f">
+</div>
+
 <div id="user-content-toc">
   <ul align="left">
     <summary><h1 style="display: inline-block">👋 Introduction</h1></summary>
@@ -23,7 +27,9 @@ My intention is, *a priori*, to start studying Data Analysis, focusing on tools 
 In short, my goal, *a posteriori*, is to become a Python Full-Stack Developer with solid expertise in Data Analysis and a creative approach to technical problem-solving.\
 I’m just beginning this journey, but I’m highly motivated and excited for what’s ahead. 
 
----
+<div>
+  <img src="https://github.com/user-attachments/assets/fde1b0b6-d594-458f-99be-d6ba82df579f">
+</div>
 
 ## 🚧 Under Construction: My Tech Journey
 
@@ -51,9 +57,13 @@ My ultimate goal is to become a Python Full-Stack Developer with a strong founda
 
 </p>
 
-
+<!--line-->
+<div>
+  <img src="https://github.com/user-attachments/assets/fde1b0b6-d594-458f-99be-d6ba82df579f">
+</div>
 
 ## Achieviments
+###
 <!--Santandeer Excel image-->
 <div>
   <img align="left" width="40%" src="https://github.com/user-attachments/assets/bb9f7e41-d1df-4b37-b679-e02b770cbd67">
@@ -64,10 +74,10 @@ A course centred on the strong foundational principles of Excel, including an in
 Finally, the initial use of Copilot, a tool that supports automation and task optimisation within Excel, representing a significant advantage in data analysis with the aid of artificial intelligence.</p>
 <!--End Intro-->
 
-<!-- Portfolio -->
-
-
----
+<!-- line -->
+<div>
+  <img src="https://github.com/user-attachments/assets/fde1b0b6-d594-458f-99be-d6ba82df579f">
+</div>
 
 
 ## 🔥 Skills
@@ -111,10 +121,15 @@ Finally, the initial use of Copilot, a tool that supports automation and task op
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
-###
-# Personal Works
+<!--line -->
+<div>
+  <img src="https://github.com/user-attachments/assets/fde1b0b6-d594-458f-99be-d6ba82df579f">
+</div>
 
-## On my Writings
+## Personal Works
+
+
+### On my Writings
 *Little-Boy e o Reino de Alphômega* (in Portuguese) is a coming-of-age fantasy tale that immerses the reader in a universe of adventure, imagination, and inner discovery.
 
 Inspired by the legendary echoes of the *Arthurian Cycle* and steeped in the rich tapestry of European folklore, this book goes even further, transforming itself into the vibrant hues and mysteries of *Amerindian mythology* – crafting a new world where the ancient and the modern intertwine like never before.
@@ -152,6 +167,9 @@ With a language that both provokes and inspires, *Little-Boy and the Alphômega 
 **Characters**: Over 150\
 **Genres**: Fiction, Fantasy
 
+<div>
+  <img src="https://github.com/user-attachments/assets/fde1b0b6-d594-458f-99be-d6ba82df579f">
+</div>
 
 ## On my drawings
 Drawing has always been one of my passions.
@@ -171,10 +189,14 @@ If you're looking for a unique artistic touch – stay tuned.
 <img src="https://github.com/user-attachments/assets/11c14268-4e64-4768-ae74-4d1af8b53302" />
 </div>
 
----
+
 
 ###
----
+<!-- line -->
+<div>
+  <img src="https://github.com/user-attachments/assets/fde1b0b6-d594-458f-99be-d6ba82df579f">
+</div>
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -189,8 +211,10 @@ If you're looking for a unique artistic touch – stay tuned.
 </div>
 </table>
 
-
----
+<!-- line -->
+<div>
+  <img src="https://github.com/user-attachments/assets/fde1b0b6-d594-458f-99be-d6ba82df579f">
+</div>
 
 ###
 
@@ -198,7 +222,7 @@ If you're looking for a unique artistic touch – stay tuned.
 
 <!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 <!--Footer image of Much Obliged--> 
